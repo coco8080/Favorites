@@ -22,6 +22,7 @@ docker run -d --name emqx -p 1883:1883 -p 8083:8083 -p 8883:8883 -p 8084:8084 -p
 ## 从源码构建
 
 **获取代码**: EMQ X源代码可访问[EMQ X GitHub](https://github.com/emqx/emqx)。
+
 ```
 git clone https://github.com/emqx/emqx-rel.git
 ```
