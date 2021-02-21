@@ -1,6 +1,6 @@
 # Favorites
 
-该仓库由于一些开源项目学习、汇总。
+该仓库用于一些开源项目学习、汇总。
 
 ## Introduction
 
@@ -12,7 +12,14 @@
 
 物联网
 
-***EMQ X***: 简称EMQ，是一款完全开源，高度可伸缩，高可用的分布式MQTT消息服务器，同时也支持CoAP/LwM2M一站式lOT协议接入。EMQ 是 5G 时代万物互联的消息引擎，适用于 IoT、M2M 和移动应用程序，可处理千万级别的并发客户端，[***详见***](lOT/emqx/README.md)。
+- ***EMQ X***: [*官网*](https://www.emqx.cn/) / [*Github*](https://github.com/emqx/emqx)
+- ***Node-RED***: [*官网*](https://nodered.org/) / [*Github*](https://github.com/node-red)
+
+### OS
+
+OS 系统
+
+- ***RT-Thread***: [*官网*](https://www.rt-thread.org/) / [*Github*](https://github.com/RT-Thread/rt-thread) / [*Gitee*](https://gitee.com/rtthread/rt-thread)
 
 ## Process
 
