@@ -21,6 +21,10 @@ OS 系统
 
 - ***RT-Thread***: [*官网*](https://www.rt-thread.org/) / [*Github*](https://github.com/RT-Thread/rt-thread) / [*Gitee*](https://gitee.com/rtthread/rt-thread)
 
+- ***EVM***: 全称 *Embedded Virtual Machine*, 本质上是一款通用、精简的嵌入式虚拟机，由语法解析前端框架和字节码运行后端构成，可运行在资源受限制的单片机上。
+
+- ***Zephyr***: 是一个Linux基金会托管的开源合作项目，联合了业内领先企业(英特尔公司、恩智浦半导体公司），为所有资源受限设备构建了针对资源受限设备进行优化的最佳小型可扩展实时操作系统（RTOS）。
+
 ## Process
 
 开发流程相关
