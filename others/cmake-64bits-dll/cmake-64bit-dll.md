@@ -20,3 +20,7 @@ SET_TARGET_PROPERTIES(mylib0713 PROPERTIES LINKER_LANGUAGE C)       //为你的d
 + 在当前目录下执行 *cmake .*，注意后面有个点
 
 + 在当前目录下运行 *cmake --build .*
+
+https://www.jianshu.com/p/06d519f544e7  
+https://blog.csdn.net/wjc133/article/details/52934002  
+https://blog.csdn.net/weixin_30911809/article/details/97711445  
